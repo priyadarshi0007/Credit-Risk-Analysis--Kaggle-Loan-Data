@@ -2,7 +2,7 @@
 
 The dataset has been procured from https://www.kaggle.com/wendykan/lending-club-loan-data 
 
-So here we will be analyisng the above dataset and I will be analyising data and will be doing prediction, I will be analysing the dataset in following parameters 
+So here I will be analyisng the above dataset and I will be analyising data and will be doing prediction, I will be analysing the dataset in following parameters 
 
         1. Probability of Default(PD)
         2. Loss of given Default (LGD)
